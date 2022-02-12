@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmVendas.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmAtalhos.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmListarClientes.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmCadastrarClientes.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmListarProdutos.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmCadastrarFornecedores.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmCadastrarProdutos.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmRelatorioVendas.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/model/Clientes.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmMenu.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/jdbc/ConnectionFactory.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/jdbc/testaConexao.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmPagamentos.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/model/Utilitarios.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/dao/VendasDAO.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmListarFornecedores.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmListarFuncionarios.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmLogin.java</file>
+            <file>file:/D:/User-docs/Downloads/SistemaVendas/SistemaVendas/src/br/com/sistema/view/FrmTotalVendas.java</file>
+        </group>
+    </open-files>
+</project-private>
